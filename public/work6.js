@@ -65,7 +65,7 @@ function EditButton({std,app}){
 class App extends React.Component {
   title = (
     <Alert variant="info" style={{ backgroundColor: '#007bff', color: 'white' }}>
-      <b>Work6 :</b> Firebase
+      <b>Work6 :</b> เรียกใช้ฐานข้อมูล Firebase ด้วย React
     </Alert>
   );
   footer = (
